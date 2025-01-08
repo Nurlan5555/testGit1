@@ -42,6 +42,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+<<<<<<< HEAD
     "last_opened_file_path": "C:/Users/User/Desktop/test/testGit",
     "onboarding.tips.debug.path": "C:/Users/User/Desktop/test/testGit/src/main/java/com/digital_nomads/Main.java"
   }
@@ -51,6 +52,11 @@
       <recent name="C:\Users\User\Desktop\test\testGit" />
     </key>
   </component>
+=======
+    "onboarding.tips.debug.path": "C:/Users/User/Desktop/test/testGit/src/main/java/com/digital_nomads/Main.java"
+  }
+}]]></component>
+>>>>>>> b32c5a0430fa3c26e15a1ff5653aac0029f397c6
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -85,9 +91,12 @@
       </map>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="ff" />
     <option name="LAST_COMMIT_MESSAGE" value="ff" />
   </component>
+=======
+>>>>>>> b32c5a0430fa3c26e15a1ff5653aac0029f397c6
 </project>
